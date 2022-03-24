@@ -76,11 +76,8 @@
 
     <h3>Studies Done</h3>
     <table cellspacing="10">
-      <thead>
         <th>date</th>
         <th>work done</th>
-      </thead>
-      <body>
         <tr>
           <td>2021-2022</td>
           <td>10th standard</td>
@@ -101,7 +98,6 @@
           <td>2018-2019</td>
           <td>7th standard</td>
         </tr>
-      </body>
     </table>
 
     <hr>
